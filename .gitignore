@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# TensorFlow
+logs/
+events.out.tfevents*
+
+# Model Files
+*.h5
+*.keras
+*.ckpt
+
+# Dataset
+aclImdb/
+imdb.npz
+
+# Temporary
+*.tmp
+*.bak
+
+# Environment Variables
+.env
+
+# Cache
+.pytest_cache/
+.mypy_cache/
