@@ -13,6 +13,8 @@
 
 ---
 
+<img width="1687" height="925" alt="image" src="https://github.com/user-attachments/assets/df7343bd-c7c0-4417-8ca1-73c89863958b" />
+
 # 🚀 Project Highlights
 
 - ✅ Binary Sentiment Classification
